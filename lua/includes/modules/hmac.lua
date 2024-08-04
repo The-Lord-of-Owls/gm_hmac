@@ -1,3 +1,5 @@
+AddCSLuaFile()
+
 --Localization of our required functions
 local stringChar	= string.char
 local stringByte	= string.byte
